@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.14.2",
+    "apollo-server": "^2.25.3",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "request": "^2.88.2",
